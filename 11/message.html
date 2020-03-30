@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>浩然小站_留言</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="浩然小站,属于个人站点,专注网赚,自媒体的个人博客" />
+	<meta name="description" content="浩然小站_专注网赚自媒体的个人博客" />
+	<link rel="stylesheet" href="res/layui/css/layui.css">
+	<link rel="stylesheet" href="res/static/css/mian.css">
+</head>
+<body class="lay-blog">
+		<div class="header">
+			<div class="header-wrap">
+				<h1 class="logo pull-left">
+					<a href="index.html">
+						<img src="res/static/images/logo-text.png" alt="" class="logo-img">
+					</a>
+				</h1>
+				<div class="blog-nav pull-right">
+					<ul class="layui-nav pull-left">
+					   <li class="layui-nav-item layui-this"><a href="index.html">首页</a></li>
+					  <li class="layui-nav-item"><a href="message.html">留言</a></li>
+					   <li class="layui-nav-item"><a href="404.html">404</a></li>
+					   <li class="layui-nav-item"><a href="details.html">评论</a></li>
+             <li class="layui-nav-item"><a href="catalog.html">列表</a></li>
+					   <li class="layui-nav-item"><a href="http://APP.hrxz.net">软件</a></li>
+					  <li class="layui-nav-item"><a href="about.html">关于</a></li>
+					</ul>
+				</div>
+				<div class="mobile-nav pull-right" id="mobile-nav">
+					<a href="javascript:;">
+						<i class="layui-icon layui-icon-more"></i>
+					</a>
+				</div>
+			</div>
+			<ul class="pop-nav" id="pop-nav">
+			 <li class="layui-nav-item layui-this"><a href="index.html">首页</a></li>
+					  <li class="layui-nav-item"><a href="message.html">留言</a></li>
+					   <li class="layui-nav-item"><a href="404.html">404</a></li>
+					   <li class="layui-nav-item"><a href="details.html">评论</a></li>
+             <li class="layui-nav-item"><a href="catalog.html">列表</a></li>
+					   <li class="layui-nav-item"><a href="http://APP.hrxz.net">软件</a></li>
+					  <li class="layui-nav-item"><a href="about.html">关于</a></li>
+			</ul>
+		</div>
+	<div class="container-wrap">
+			<div class="container container-message container-details container-about">
+					<div class="contar-wrap">
+						<div class="item">
+							<div class="item-box">
+								<h3>欢迎留言</h3>
+							<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+		<script src="https://cdn.jsdelivr.net/gh/Alanrk/clean-cdn/scripts/Valine.min.js"></script>
+		<script>
+		new Valine({
+		                                  av: AV,
+		                                  el: '.comment',
+		                                  lang: 'zh-cn',
+		                                  admin_email: '56464751@qq.com',
+		                                  emoticon_url: 'https://cloud.panjunwen.com/alu',
+		                                  emoticon_list: ["吐.png","喷血.png","狂汗.png","不说话.png","汗.png","坐等.png","献花.png","不高兴.png","中刀.png","害羞.png","皱眉.png","小眼睛.png","中指.png","尴尬.png","瞅你.png","想一想.png","中枪.png","得意.png","肿包.png","扇耳光.png","亲亲.png","惊喜.png","脸红.png","无所谓.png","便便.png","愤怒.png","蜡烛.png","献黄瓜.png","内伤.png","投降.png","观察.png","看不见.png","击掌.png","抠鼻.png","邪恶.png","看热闹.png","口水.png","抽烟.png","锁眉.png","装大款.png","吐舌.png","无奈.png","长草.png","赞一个.png","呲牙.png","无语.png","阴暗.png","不出所料.png","咽气.png","期待.png","高兴.png","吐血倒地.png","哭泣.png","欢呼.png","黑线.png","喜极而泣.png","喷水.png","深思.png","鼓掌.png","暗地观察.png"],
+		                                  app_id: 'FjS1DYLQe2JqqfEVzVncwz4G-gzGzoHsz',
+		                                  app_key: 'qPldm7xXBIRY1TMUCrD1bCaW',
+		                                  placeholder: '点击此处评论留言'
+		                                });</script>
+							
+							</div>
+						</div>			
+					</div>
+			</div>
+		</div>
+	
+		<div class="footer">
+			服务器托管于：<a href="https://coding.net/" >腾云扣钉</a></br>Copyright © 2019-2020  <a href="http://www.hrxz.net/" >浩然小站</a><br><a href="http://www.beian.miit.gov.cn/" >豫ICP备18044147号</a><script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1278648976'%3E%3C/span%3E%3Cscript src='https://s4.cnzz.com/z_stat.php%3Fid%3D1278648976%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script> 
+		</div>
+	</div>
+	<script src="res/layui/layui.js">
+
+	</script>
+	<script>		
+		layui.config({
+		  base: 'res/static/js/' 
+		}).use('blog');
+	</script>
+
+	<script id="LAY-msg-tpl" type="text/html">
+		<div class="info-box">
+			<div class="info-item">
+				<img class="info-img" src="{{ d.avatar }}" alt="">
+			  <div class="info-text">
+					<p class="title">
+					  <span class="name">{{ d.username }}</span>
+					  <span class="info-img">
+					  	<i class="layui-icon layui-icon-praise"></i>
+					  	{{ d.praise }}
+					 	</span>
+					</p>
+					<p class="info-intr">
+						{{ d.content }}
+					</p>
+			  </div>
+			</div>
+		</div>
+	</script>
+	
+</body>

@@ -1,5 +1,0 @@
-<IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteCond %{HTTP_HOST} !^pz.hrxz.net$ [NC]
-RewriteRule (.*) http://pz.hrxz.net/$1 [L,R=301]
-</IfModule>
