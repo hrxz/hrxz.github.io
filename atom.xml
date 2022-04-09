@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.hrxz.net</id>
+    <title>浩然小站</title>
+    <updated>2022-04-09T09:32:02.975Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.hrxz.net"/>
+    <link rel="self" href="https://blog.hrxz.net/atom.xml"/>
+    <subtitle>浩然小站,个人站点,记录个人点滴,</subtitle>
+    <logo>https://blog.hrxz.net/images/avatar.png</logo>
+    <icon>https://blog.hrxz.net/favicon.ico</icon>
+    <rights>All rights reserved 2022, 浩然小站</rights>
+    <entry>
+        <title type="html"><![CDATA[手机免ROOT为微信安装微X模块，以实现抢红包与消息防撤回功能]]></title>
+        <id>https://blog.hrxz.net/post/20/</id>
+        <link href="https://blog.hrxz.net/post/20/">
+        </link>
+        <updated>2022-04-04T13:13:20.000Z</updated>
+        <summary type="html"><![CDATA[<p>华为鸿蒙系统和安卓系统版本的微信可以通过本教程为微信安装太极与微X模块，以实现抢红包与消息防撤回功能等功能。以下内容根据我的经验简单写成，如有不当请指证！！！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>华为鸿蒙系统和安卓系统版本的微信可以通过本教程为微信安装太极与微X模块，以实现抢红包与消息防撤回功能等功能。以下内容根据我的经验简单写成，如有不当请指证！！！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[破解Excel工作表保护密码，亲测有效]]></title>
+        <id>https://blog.hrxz.net/post/password/</id>
+        <link href="https://blog.hrxz.net/post/password/">
+        </link>
+        <updated>2021-07-28T13:30:46.000Z</updated>
+        <summary type="html"><![CDATA[<p>之前网上有很多的方法，但是测试发现基本上都已经失效了！今天给大家带来目前来说最好用的方法，用宏删除Excel保护密码(会直接弹出密码)， 亲测有效！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>之前网上有很多的方法，但是测试发现基本上都已经失效了！今天给大家带来目前来说最好用的方法，用宏删除Excel保护密码(会直接弹出密码)， 亲测有效！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18个问答彻底讲明白RS485]]></title>
+        <id>https://blog.hrxz.net/post/19/</id>
+        <link href="https://blog.hrxz.net/post/19/">
+        </link>
+        <updated>2021-06-24T11:53:07.000Z</updated>
+        <summary type="html"><![CDATA[<p>RS485接口组成的半双工网络，一般是两线制，多采用屏蔽双绞线传输，这种接线方式为总线式拓扑结构在同一总线上最多可以挂接32个结点。我们知道，最初数据是模拟信号输出简单过程量，后来仪表接口是RS232接口，这种接口可以实现点对点的通信方式，但这种方式不能实现联网功能，随后出现的RS485解决了这个问题。为此本文通过问答的形式详细介绍RS485接口。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>RS485接口组成的半双工网络，一般是两线制，多采用屏蔽双绞线传输，这种接线方式为总线式拓扑结构在同一总线上最多可以挂接32个结点。我们知道，最初数据是模拟信号输出简单过程量，后来仪表接口是RS232接口，这种接口可以实现点对点的通信方式，但这种方式不能实现联网功能，随后出现的RS485解决了这个问题。为此本文通过问答的形式详细介绍RS485接口。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高压柜中的铜排选择]]></title>
+        <id>https://blog.hrxz.net/post/18/</id>
+        <link href="https://blog.hrxz.net/post/18/">
+        </link>
+        <updated>2020-08-16T07:30:15.000Z</updated>
+        <summary type="html"><![CDATA[<p>高压柜的铜排截面选择需要符合两个要求：</p>
+<p>（1）满足额定电流<br>
+（2）满足短时耐受电流</p>
+<p>第一条可通过负载容量计算得知，那么第二条就需要记下 GB3906[附录D]中公式：S=I/a√(t/△θ) 式中：I--额定短时耐受电流；a—材质系数，铜为13，铝为8.5；t--额定短路持续时间；△θ—温升（K），对于裸导体一般取180K，对于4S持续时间取215K。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>高压柜的铜排截面选择需要符合两个要求：</p>
+<p>（1）满足额定电流<br>
+（2）满足短时耐受电流</p>
+<p>第一条可通过负载容量计算得知，那么第二条就需要记下 GB3906[附录D]中公式：S=I/a√(t/△θ) 式中：I--额定短时耐受电流；a—材质系数，铜为13，铝为8.5；t--额定短路持续时间；△θ—温升（K），对于裸导体一般取180K，对于4S持续时间取215K。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[铜排折弯的计算方法]]></title>
+        <id>https://blog.hrxz.net/post/17/</id>
+        <link href="https://blog.hrxz.net/post/17/">
+        </link>
+        <updated>2020-08-16T06:59:47.000Z</updated>
+        <summary type="html"><![CDATA[<p>想必新手成套安装人员看一些铜排师傅做铜排很是羡慕，其实说白了也很简单，主要是心细，计算的时候不要漏加厚度与搭接面的高度。其它具体的请看下面的介绍！如果需要的话请下载一个我写的小软件（支持安卓与苹果手机）输入直角三角形的两个直角边，自动算直角三角形的斜边与三个角度提升您的效率。软件界面如上图！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>想必新手成套安装人员看一些铜排师傅做铜排很是羡慕，其实说白了也很简单，主要是心细，计算的时候不要漏加厚度与搭接面的高度。其它具体的请看下面的介绍！如果需要的话请下载一个我写的小软件（支持安卓与苹果手机）输入直角三角形的两个直角边，自动算直角三角形的斜边与三个角度提升您的效率。软件界面如上图！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[铜排的载流量计算]]></title>
+        <id>https://blog.hrxz.net/post/16/</id>
+        <link href="https://blog.hrxz.net/post/16/">
+        </link>
+        <updated>2020-08-16T05:49:52.000Z</updated>
+        <summary type="html"><![CDATA[<p>铜排又称铜母排或铜汇流排，是由铜材质制作的，截面为矩形或倒角（圆角）矩形的长导体(现在一般都用圆角铜排，以免产生尖端放电），在电路中起输送电流和连接电气设备的作用。</p>
+<p>铜排在电气设备，特别是道成套配电装置中得到了广泛的应用；一般在配电柜中的U、V、W相母排和PE母排均采用铜排；铜排在使用中一般标有相色字母标志或回涂有相色漆，U相铜排涂有“黄”色，V相铜排涂有“绿”色，W相铜排涂有“红”色，PE母线铜排涂有“黄绿相间”双色答。今天我们来学习一下铜排的相关计算！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>铜排又称铜母排或铜汇流排，是由铜材质制作的，截面为矩形或倒角（圆角）矩形的长导体(现在一般都用圆角铜排，以免产生尖端放电），在电路中起输送电流和连接电气设备的作用。</p>
+<p>铜排在电气设备，特别是道成套配电装置中得到了广泛的应用；一般在配电柜中的U、V、W相母排和PE母排均采用铜排；铜排在使用中一般标有相色字母标志或回涂有相色漆，U相铜排涂有“黄”色，V相铜排涂有“绿”色，W相铜排涂有“红”色，PE母线铜排涂有“黄绿相间”双色答。今天我们来学习一下铜排的相关计算！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[固态U盘安装Windows To Go详解]]></title>
+        <id>https://blog.hrxz.net/post/15/</id>
+        <link href="https://blog.hrxz.net/post/15/">
+        </link>
+        <updated>2020-06-07T11:50:51.000Z</updated>
+        <summary type="html"><![CDATA[<p>一时心血来潮，淘宝买了一个固态U盘。用来弄个Windows To Go。固态U盘容量是64GB(2020年6月淘宝价218元人民币),商家宣称是SLC闪存颗，读:460M/S,写:380M/S。由于我用的是Surfac Go最低配置(4G+64G)的平板，只有TPYE-C接口，所以用的商家送的TPYE-C转USB接口插到平板。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>一时心血来潮，淘宝买了一个固态U盘。用来弄个Windows To Go。固态U盘容量是64GB(2020年6月淘宝价218元人民币),商家宣称是SLC闪存颗，读:460M/S,写:380M/S。由于我用的是Surfac Go最低配置(4G+64G)的平板，只有TPYE-C接口，所以用的商家送的TPYE-C转USB接口插到平板。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[断路器的分类及用途]]></title>
+        <id>https://blog.hrxz.net/post/14/</id>
+        <link href="https://blog.hrxz.net/post/14/">
+        </link>
+        <updated>2020-06-01T11:56:43.000Z</updated>
+        <summary type="html"><![CDATA[<p>断路器俗称空气开关MCB（塑料外壳）开关的一种。由手柄、动触头、静触头、弹簧、双金属片、连杆、脱扣装置、铁芯、线圈、导弧片、灭弧片、导电部件和接线孔等部件组成。主要用于低压供电、配电系统线路及电气设备过载及短路保护。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>断路器俗称空气开关MCB（塑料外壳）开关的一种。由手柄、动触头、静触头、弹簧、双金属片、连杆、脱扣装置、铁芯、线圈、导弧片、灭弧片、导电部件和接线孔等部件组成。主要用于低压供电、配电系统线路及电气设备过载及短路保护。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows10隐藏有这些“真香”功能]]></title>
+        <id>https://blog.hrxz.net/post/13/</id>
+        <link href="https://blog.hrxz.net/post/13/">
+        </link>
+        <updated>2020-06-01T11:51:17.000Z</updated>
+        <summary type="html"><![CDATA[<p>尽管Win10已经陪伴我们五年多，但真正了解这款系统的人并不多。很多人认为Win10的“小毛病”太多，这的确是个事实，可从另一个角度考虑，微软也在持续不断地“改造”它。除此之外，Win10中还有很多令人着迷的 “小设计。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>尽管Win10已经陪伴我们五年多，但真正了解这款系统的人并不多。很多人认为Win10的“小毛病”太多，这的确是个事实，可从另一个角度考虑，微软也在持续不断地“改造”它。除此之外，Win10中还有很多令人着迷的 “小设计。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[漏电断路器选型与原理]]></title>
+        <id>https://blog.hrxz.net/post/12/</id>
+        <link href="https://blog.hrxz.net/post/12/">
+        </link>
+        <updated>2020-06-01T11:48:12.000Z</updated>
+        <summary type="html"><![CDATA[<p>断路器有1P，2P，2P，4P。请问极数是指什么，在选择断路器的时候怎么判断选几极的断路器？<br>
+极数就是指切断线路的导线根数。	1P就是切断一根导线；2P就是同时切断2根导线，以次类推。<br>
+极数指断线数。1P、2P用于单相，3P、4P用于三相。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>断路器有1P，2P，2P，4P。请问极数是指什么，在选择断路器的时候怎么判断选几极的断路器？<br>
+极数就是指切断线路的导线根数。	1P就是切断一根导线；2P就是同时切断2根导线，以次类推。<br>
+极数指断线数。1P、2P用于单相，3P、4P用于三相。</p>
+]]></content>
+    </entry>
+</feed>
