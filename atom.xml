@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.hrxz.net</id>
     <title>浩然小站</title>
-    <updated>2022-05-01T12:05:10.890Z</updated>
+    <updated>2022-05-04T11:58:51.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.hrxz.net"/>
     <link rel="self" href="https://blog.hrxz.net/atom.xml"/>
@@ -11,14 +11,25 @@
     <icon>https://blog.hrxz.net/favicon.ico</icon>
     <rights>All rights reserved 2022, 浩然小站</rights>
     <entry>
-        <title type="html"><![CDATA[浏览器插件油猴Tampermonkey脚本管理器]]></title>
+        <title type="html"><![CDATA[手机免费看全网视频VIP]]></title>
+        <id>https://blog.hrxz.net/post/25/</id>
+        <link href="https://blog.hrxz.net/post/25/">
+        </link>
+        <updated>2022-05-04T11:21:25.000Z</updated>
+        <summary type="html"><![CDATA[<p>上文写了一个电脑安装脚本以实现浏览器看全网VIP视频的教程，现在是移动互联网时代了，大家玩移动设备的时间比较多，那今天就再来一个手机免费看全网视频VIP教程，能全平台都包年大会员的土豪请略过（主要是视频VIP平台包月越来越贵，单一平台资源有限）。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>上文写了一个电脑安装脚本以实现浏览器看全网VIP视频的教程，现在是移动互联网时代了，大家玩移动设备的时间比较多，那今天就再来一个手机免费看全网视频VIP教程，能全平台都包年大会员的土豪请略过（主要是视频VIP平台包月越来越贵，单一平台资源有限）。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows系统免费看全网视频VIP]]></title>
         <id>https://blog.hrxz.net/post/24/</id>
         <link href="https://blog.hrxz.net/post/24/">
         </link>
         <updated>2022-04-29T12:23:14.000Z</updated>
-        <summary type="html"><![CDATA[<p>浏览器不装插件就像我们玩游戏不带装备，当然我们部分上班族普通人没有必要的去给浏览器装插件，浏览器本身具备的功能已经能够满足我们的基本需求，但是如果你这样想就被局限于此了，一旦你安装了插件你就会觉得原来还有这么多黑科技。</p>
+        <summary type="html"><![CDATA[<p>浏览器不装插件就像我们玩游戏不带装备，当然我们部分上班族普通人没有必要的去给浏览器装插件，浏览器本身具备的功能已经能够满足我们的基本需求，但是如果你这样想就被局限于此了，一旦你安装了插件你就会觉得原来还有这么多黑科技（<strong>比如可以看全网视频VIP</strong>）。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>浏览器不装插件就像我们玩游戏不带装备，当然我们部分上班族普通人没有必要的去给浏览器装插件，浏览器本身具备的功能已经能够满足我们的基本需求，但是如果你这样想就被局限于此了，一旦你安装了插件你就会觉得原来还有这么多黑科技。</p>
+        <content type="html"><![CDATA[<p>浏览器不装插件就像我们玩游戏不带装备，当然我们部分上班族普通人没有必要的去给浏览器装插件，浏览器本身具备的功能已经能够满足我们的基本需求，但是如果你这样想就被局限于此了，一旦你安装了插件你就会觉得原来还有这么多黑科技（<strong>比如可以看全网视频VIP</strong>）。</p>
 ]]></content>
     </entry>
     <entry>
@@ -115,19 +126,6 @@
         <summary type="html"><![CDATA[<p>想必新手成套安装人员看一些铜排师傅做铜排很是羡慕，其实说白了也很简单，主要是心细，计算的时候不要漏加厚度与搭接面的高度。其它具体的请看下面的介绍！如果需要的话请下载一个我写的小软件（支持安卓与苹果手机）输入直角三角形的两个直角边，自动算直角三角形的斜边与三个角度提升您的效率。软件界面如上图！</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>想必新手成套安装人员看一些铜排师傅做铜排很是羡慕，其实说白了也很简单，主要是心细，计算的时候不要漏加厚度与搭接面的高度。其它具体的请看下面的介绍！如果需要的话请下载一个我写的小软件（支持安卓与苹果手机）输入直角三角形的两个直角边，自动算直角三角形的斜边与三个角度提升您的效率。软件界面如上图！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[铜排的载流量计算]]></title>
-        <id>https://blog.hrxz.net/post/16/</id>
-        <link href="https://blog.hrxz.net/post/16/">
-        </link>
-        <updated>2020-08-16T05:49:52.000Z</updated>
-        <summary type="html"><![CDATA[<p>铜排又称铜母排或铜汇流排，是由铜材质制作的，截面为矩形或倒角（圆角）矩形的长导体(现在一般都用圆角铜排，以免产生尖端放电），在电路中起输送电流和连接电气设备的作用。</p>
-<p>铜排在电气设备，特别是道成套配电装置中得到了广泛的应用；一般在配电柜中的U、V、W相母排和PE母排均采用铜排；铜排在使用中一般标有相色字母标志或回涂有相色漆，U相铜排涂有“黄”色，V相铜排涂有“绿”色，W相铜排涂有“红”色，PE母线铜排涂有“黄绿相间”双色答。今天我们来学习一下铜排的相关计算！</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>铜排又称铜母排或铜汇流排，是由铜材质制作的，截面为矩形或倒角（圆角）矩形的长导体(现在一般都用圆角铜排，以免产生尖端放电），在电路中起输送电流和连接电气设备的作用。</p>
-<p>铜排在电气设备，特别是道成套配电装置中得到了广泛的应用；一般在配电柜中的U、V、W相母排和PE母排均采用铜排；铜排在使用中一般标有相色字母标志或回涂有相色漆，U相铜排涂有“黄”色，V相铜排涂有“绿”色，W相铜排涂有“红”色，PE母线铜排涂有“黄绿相间”双色答。今天我们来学习一下铜排的相关计算！</p>
 ]]></content>
     </entry>
 </feed>
