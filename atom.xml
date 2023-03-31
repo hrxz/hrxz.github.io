@@ -1,19 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://blog.hrxz.net</id>
+    <id>http://blog.hrxz.net</id>
     <title>浩然小站</title>
-    <updated>2022-05-04T11:58:51.196Z</updated>
+    <updated>2023-03-31T13:24:44.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://blog.hrxz.net"/>
-    <link rel="self" href="https://blog.hrxz.net/atom.xml"/>
+    <link rel="alternate" href="http://blog.hrxz.net"/>
+    <link rel="self" href="http://blog.hrxz.net/atom.xml"/>
     <subtitle>浩然小站,个人站点,记录个人点滴,</subtitle>
-    <logo>https://blog.hrxz.net/images/avatar.png</logo>
-    <icon>https://blog.hrxz.net/favicon.ico</icon>
-    <rights>All rights reserved 2022, 浩然小站</rights>
+    <logo>http://blog.hrxz.net/images/avatar.png</logo>
+    <icon>http://blog.hrxz.net/favicon.ico</icon>
+    <rights>All rights reserved 2023, 浩然小站</rights>
+    <entry>
+        <title type="html"><![CDATA[Windows本地Webdav]]></title>
+        <id>http://blog.hrxz.net/post/29/</id>
+        <link href="http://blog.hrxz.net/post/29/">
+        </link>
+        <updated>2022-06-22T13:09:32.000Z</updated>
+        <summary type="html"><![CDATA[<p>Windows本地挂Webdav服务器到本地，白嫖阿里云几T的网盘空间（可能需要配合openwrt的阿里云盘WebDAV插件)</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Windows本地挂Webdav服务器到本地，白嫖阿里云几T的网盘空间（可能需要配合openwrt的阿里云盘WebDAV插件)</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenWrt 小白常用命令大全]]></title>
+        <id>http://blog.hrxz.net/post/26/</id>
+        <link href="http://blog.hrxz.net/post/26/">
+        </link>
+        <updated>2022-06-05T07:40:26.000Z</updated>
+        <summary type="html"><![CDATA[<p>作为软路由系统的折腾党就要会使用Openwrt的命令，比如有睦小白经常把mips、aarch64、X86的插件胡乱安装，不会区分架构，这时就要用到查看CPU架构的命令了，下面就是我整理的一些Openwrt常用查询维护命令，主要是硬件、系统、磁盘、安装等相关的常用命令。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>作为软路由系统的折腾党就要会使用Openwrt的命令，比如有睦小白经常把mips、aarch64、X86的插件胡乱安装，不会区分架构，这时就要用到查看CPU架构的命令了，下面就是我整理的一些Openwrt常用查询维护命令，主要是硬件、系统、磁盘、安装等相关的常用命令。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[手机免费看全网视频VIP]]></title>
-        <id>https://blog.hrxz.net/post/25/</id>
-        <link href="https://blog.hrxz.net/post/25/">
+        <id>http://blog.hrxz.net/post/25/</id>
+        <link href="http://blog.hrxz.net/post/25/">
         </link>
         <updated>2022-05-04T11:21:25.000Z</updated>
         <summary type="html"><![CDATA[<p>上文写了一个电脑安装脚本以实现浏览器看全网VIP视频的教程，现在是移动互联网时代了，大家玩移动设备的时间比较多，那今天就再来一个手机免费看全网视频VIP教程，能全平台都包年大会员的土豪请略过（主要是视频VIP平台包月越来越贵，单一平台资源有限）。</p>
@@ -23,8 +45,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Windows系统免费看全网视频VIP]]></title>
-        <id>https://blog.hrxz.net/post/24/</id>
-        <link href="https://blog.hrxz.net/post/24/">
+        <id>http://blog.hrxz.net/post/24/</id>
+        <link href="http://blog.hrxz.net/post/24/">
         </link>
         <updated>2022-04-29T12:23:14.000Z</updated>
         <summary type="html"><![CDATA[<p>浏览器不装插件就像我们玩游戏不带装备，当然我们部分上班族普通人没有必要的去给浏览器装插件，浏览器本身具备的功能已经能够满足我们的基本需求，但是如果你这样想就被局限于此了，一旦你安装了插件你就会觉得原来还有这么多黑科技（<strong>比如可以看全网视频VIP</strong>）。</p>
@@ -34,8 +56,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[5个网站免费下载全网无损音乐]]></title>
-        <id>https://blog.hrxz.net/post/23/</id>
-        <link href="https://blog.hrxz.net/post/23/">
+        <id>http://blog.hrxz.net/post/23/</id>
+        <link href="http://blog.hrxz.net/post/23/">
         </link>
         <updated>2022-04-29T11:02:13.000Z</updated>
         <summary type="html"><![CDATA[<p>听歌应该是大部分人上班摸鱼的一贯伎俩，当年就QQ音乐直接可以大部分满足我的需求，但是随着年龄和阅历的增长慢慢会喜欢其他类型的歌，尤其抖音上线之后,便从线上听歌转阵到本地听歌了。</p>
@@ -45,8 +67,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[观影PC网站合集]]></title>
-        <id>https://blog.hrxz.net/post/22/</id>
-        <link href="https://blog.hrxz.net/post/22/">
+        <id>http://blog.hrxz.net/post/22/</id>
+        <link href="http://blog.hrxz.net/post/22/">
         </link>
         <updated>2022-04-29T10:57:40.000Z</updated>
         <summary type="html"><![CDATA[<p>观影体验按照顺序排列！</p>
@@ -56,8 +78,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[实用黑科技网站 真心好用 建议收藏]]></title>
-        <id>https://blog.hrxz.net/post/21/</id>
-        <link href="https://blog.hrxz.net/post/21/">
+        <id>http://blog.hrxz.net/post/21/</id>
+        <link href="http://blog.hrxz.net/post/21/">
         </link>
         <updated>2022-04-29T10:25:31.000Z</updated>
         <summary type="html"><![CDATA[<p>实用黑科技网站 真心好用 建议收藏，持续更新！<br>
@@ -69,8 +91,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[手机免ROOT为微信安装微X模块，以实现抢红包与消息防撤回功能]]></title>
-        <id>https://blog.hrxz.net/post/20/</id>
-        <link href="https://blog.hrxz.net/post/20/">
+        <id>http://blog.hrxz.net/post/20/</id>
+        <link href="http://blog.hrxz.net/post/20/">
         </link>
         <updated>2022-04-04T13:13:20.000Z</updated>
         <summary type="html"><![CDATA[<p>华为鸿蒙系统和安卓系统版本的微信可以通过本教程为微信安装太极与微X模块，以实现抢红包与消息防撤回功能等功能。以下内容根据我的经验简单写成，如有不当请指证！！！</p>
@@ -80,8 +102,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[破解Excel工作表保护密码，亲测有效]]></title>
-        <id>https://blog.hrxz.net/post/password/</id>
-        <link href="https://blog.hrxz.net/post/password/">
+        <id>http://blog.hrxz.net/post/password/</id>
+        <link href="http://blog.hrxz.net/post/password/">
         </link>
         <updated>2021-07-28T13:30:46.000Z</updated>
         <summary type="html"><![CDATA[<p>之前网上有很多的方法，但是测试发现基本上都已经失效了！今天给大家带来目前来说最好用的方法，用宏删除Excel保护密码(会直接弹出密码)， 亲测有效！</p>
@@ -91,41 +113,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[18个问答彻底讲明白RS485]]></title>
-        <id>https://blog.hrxz.net/post/19/</id>
-        <link href="https://blog.hrxz.net/post/19/">
+        <id>http://blog.hrxz.net/post/19/</id>
+        <link href="http://blog.hrxz.net/post/19/">
         </link>
         <updated>2021-06-24T11:53:07.000Z</updated>
         <summary type="html"><![CDATA[<p>RS485接口组成的半双工网络，一般是两线制，多采用屏蔽双绞线传输，这种接线方式为总线式拓扑结构在同一总线上最多可以挂接32个结点。我们知道，最初数据是模拟信号输出简单过程量，后来仪表接口是RS232接口，这种接口可以实现点对点的通信方式，但这种方式不能实现联网功能，随后出现的RS485解决了这个问题。为此本文通过问答的形式详细介绍RS485接口。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>RS485接口组成的半双工网络，一般是两线制，多采用屏蔽双绞线传输，这种接线方式为总线式拓扑结构在同一总线上最多可以挂接32个结点。我们知道，最初数据是模拟信号输出简单过程量，后来仪表接口是RS232接口，这种接口可以实现点对点的通信方式，但这种方式不能实现联网功能，随后出现的RS485解决了这个问题。为此本文通过问答的形式详细介绍RS485接口。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高压柜中的铜排选择]]></title>
-        <id>https://blog.hrxz.net/post/18/</id>
-        <link href="https://blog.hrxz.net/post/18/">
-        </link>
-        <updated>2020-08-16T07:30:15.000Z</updated>
-        <summary type="html"><![CDATA[<p>高压柜的铜排截面选择需要符合两个要求：</p>
-<p>（1）满足额定电流<br>
-（2）满足短时耐受电流</p>
-<p>第一条可通过负载容量计算得知，那么第二条就需要记下 GB3906[附录D]中公式：S=I/a√(t/△θ) 式中：I--额定短时耐受电流；a—材质系数，铜为13，铝为8.5；t--额定短路持续时间；△θ—温升（K），对于裸导体一般取180K，对于4S持续时间取215K。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>高压柜的铜排截面选择需要符合两个要求：</p>
-<p>（1）满足额定电流<br>
-（2）满足短时耐受电流</p>
-<p>第一条可通过负载容量计算得知，那么第二条就需要记下 GB3906[附录D]中公式：S=I/a√(t/△θ) 式中：I--额定短时耐受电流；a—材质系数，铜为13，铝为8.5；t--额定短路持续时间；△θ—温升（K），对于裸导体一般取180K，对于4S持续时间取215K。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[铜排折弯的计算方法]]></title>
-        <id>https://blog.hrxz.net/post/17/</id>
-        <link href="https://blog.hrxz.net/post/17/">
-        </link>
-        <updated>2020-08-16T06:59:47.000Z</updated>
-        <summary type="html"><![CDATA[<p>想必新手成套安装人员看一些铜排师傅做铜排很是羡慕，其实说白了也很简单，主要是心细，计算的时候不要漏加厚度与搭接面的高度。其它具体的请看下面的介绍！如果需要的话请下载一个我写的小软件（支持安卓与苹果手机）输入直角三角形的两个直角边，自动算直角三角形的斜边与三个角度提升您的效率。软件界面如上图！</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>想必新手成套安装人员看一些铜排师傅做铜排很是羡慕，其实说白了也很简单，主要是心细，计算的时候不要漏加厚度与搭接面的高度。其它具体的请看下面的介绍！如果需要的话请下载一个我写的小软件（支持安卓与苹果手机）输入直角三角形的两个直角边，自动算直角三角形的斜边与三个角度提升您的效率。软件界面如上图！</p>
 ]]></content>
     </entry>
 </feed>
