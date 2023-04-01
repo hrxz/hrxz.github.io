@@ -4,7 +4,7 @@
  <meta charset="utf-8″>
    <meta name="description" content="<p>一时心血来潮，淘宝买了一个固态U盘。用来弄个Windows To Go。固态U盘容量是64GB(2020年6月淘宝价218元人民币),商家宣称是SLC闪存颗，读:460M/S,写:380M/S。由于我用的是Surfac Go最低配置(4G+64G)的平板，只有TPYE-C接口，所以用的商家送的TPYE-C转USB接口插到平板。</p>
 " />
-<link rel="shortcut icon" href="http://blog.hrxz.net/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://hr88.top/favicon.ico" type="image/x-icon" />
 <meta name="viewport"content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
 <meta name="apple-mobile-web-app-capable"content="yes"/>
 <meta name="apple-mobile-web-app-status-bar-style"content="black"/>
@@ -13,18 +13,18 @@
 <meta name="description"content="浩然小站,个人站点,记录个人点滴,">
 <meta charset="UTF-8">
 <title>固态U盘安装Windows To Go详解 | 浩然小站</title>
-<link href="http://blog.hrxz.net/styles/main.css" type="text/css" rel="stylesheet" />
+<link href="http://hr88.top/styles/main.css" type="text/css" rel="stylesheet" />
 <link href="https://at.alicdn.com/t/font_1621793_zatzzgvf30g.css" type="text/css" rel="stylesheet" />
 <script async src="https://cdn.jsdelivr.net/npm/busuanzi@2.3.0/bsz.pure.mini.min.js"></script>
-<script src="http://blog.hrxz.net/media/js/magnify.min.js"></script>
+<script src="http://hr88.top/media/js/magnify.min.js"></script>
 <script type="text/javascript">function btn_toggle(){document.getElementById("hn").classList.contains("no-js")?document.getElementById("hn").classList.remove("no-js"):document.getElementById("hn").classList.add("no-js")}</script>
 
-<link rel="canonical" href="http://blog.hrxz.net/post/15/" />
+<link rel="canonical" href="http://hr88.top/post/15/" />
 <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 </head>
 <body>
 <div class="progress"></div><style>.progress{background:linear-gradient(to right,#87ceeb var(--scroll),transparent 0);background-repeat:no-repeat;position:fixed;width:100%;height:4px;z-index:1}</style><div class="darkmode-background"></div><div class="darkmode-layer"></div>
-<noscript><p class="warn" >本页面需要浏览器支持（启用）JavaScript</p></noscript><div class="header"><div class="logo_title"><div class="title animated fadeInDown"><a href="http://blog.hrxz.net"><img alt="logo" style="display:inline-block;" src="http://blog.hrxz.net/images/avatar.png"/></a><h1 title="浩然小站" class="weaklink shift"><a  href="/">浩然小站</a></h1>
+<noscript><p class="warn" >本页面需要浏览器支持（启用）JavaScript</p></noscript><div class="header"><div class="logo_title"><div class="title animated fadeInDown"><a href="http://hr88.top"><img alt="logo" style="display:inline-block;" src="http://hr88.top/images/avatar.png"/></a><h1 title="浩然小站" class="weaklink shift"><a  href="/">浩然小站</a></h1>
 
 <div class="navbar weaklink">
 <div class="normal_nav">
@@ -32,7 +32,7 @@
 <div style="float:right;margin-top:1em"><form id="gridea-search-form" data-update="1578893743252" action="/search/index.html"><input class="search-input" autocomplete="off" spellcheck="false" name="q" placeholder="Search..."></form></div><div style="margin-left:0.5em;margin-top:1.2em"><input id="switch_default" onclick="mobileBtn()" type="checkbox" class="switch_default"><label for="switch_default" class="toggleBtn"></label></div></div>
 <div class="clear clear_nav_inline_end"></div></div></div><div class="clear clear_nav_end"></div></div></div><div class="hamberger" href="javascript:void(0)" onclick="btn_toggle();"><i class="iconfont icon-category"></i></div></div></div></div>
 <div id="hn" class="no-js hidden_nav animated fadeInDown"><div class="bitcron_nav_container"><div class="bitcron_nav"><nav class="mixed_site_nav_wrap site_nav_wrap"><ul class="mixed_site_nav site_nav sm sm-base">	<li><a id="d2ef19af68cc211e98f8a0242ac110003" href="/" class="selected active current nav__item" >首页</a></li><li><a id="d2ef19af68cc211e98f8a0242ac110003" href="/tag/phone/" class="selected active current nav__item" >安卓</a></li><li><a id="d2ef19af68cc211e98f8a0242ac110003" href="/tag/dianqi/" class="selected active current nav__item" >电气</a></li><li><a id="d2ef19af68cc211e98f8a0242ac110003" href="/tag/computer/" class="selected active current nav__item" >电脑</a></li><li><a id="d2ef19af68cc211e98f8a0242ac110003" href="/tag/dianshang/" class="selected active current nav__item" >电商</a></li><li><a id="d2ef19af68cc211e98f8a0242ac110003" href="https://a.hrxz.net" class="selected active current nav__item" >导航</a></li><li><a id="d2ef19af68cc211e98f8a0242ac110003" href="https://www.hrxz.net/archives" class="selected active current nav__item" >归档</a></li><li><a id="d2ef19af68cc211e98f8a0242ac110003" href="/post/about" class="selected active current nav__item" >关于</a></li></ul><div class="clear clear_nav_inline_end"></div></nav></div><div class="clear clear_nav_end"></div></div>
-<div style="display:flex;justify-content:center;inline-block;text-align:center;margin-top:7%"><div><form id="gridea-search-form" data-update="1680274162267" action="/search/index.html"><input class="search-input" autocomplete="off" spellcheck="false" name="q"  placeholder="Search..." /></form></div><div style="margin-left:0.5em"><input id="switch_default_h" onclick="mobileBtn()" type="checkbox" class="switch_default"><label for="switch_default" class="toggleBtn"></label></div></div>
+<div style="display:flex;justify-content:center;inline-block;text-align:center;margin-top:7%"><div><form id="gridea-search-form" data-update="1680355045788" action="/search/index.html"><input class="search-input" autocomplete="off" spellcheck="false" name="q"  placeholder="Search..." /></form></div><div style="margin-left:0.5em"><input id="switch_default_h" onclick="mobileBtn()" type="checkbox" class="switch_default"><label for="switch_default" class="toggleBtn"></label></div></div>
 </div></div>
 <script>function enableDarkmode(){document.body.classList.add("darkmode"),document.getElementById("switch_default").checked=1,document.getElementById("switch_default_h").checked=1}function removeDarkmode(){document.body.classList.remove("darkmode"),document.getElementById("switch_default").checked=0,document.getElementById("switch_default_h").checked=0}function getCookie(a){var b,c=new RegExp("(^| )"+a+"=([^;]*)(;|$)");return(b=document.cookie.match(c))?unescape(b[2]):null}cookie=getCookie("darkmode"),"enable"==cookie&&enableDarkmode(),window.matchMedia("(prefers-color-scheme: dark)").matches&&"disable"!==cookie&&(enableDarkmode(),document.cookie="darkmode=enable; path=/");var mobileBtn=function(){1==document.getElementById("switch_default").checked?(enableDarkmode(),document.cookie="darkmode=enable; path=/"):(removeDarkmode(),document.cookie="darkmode=disable; path=/")};</script>
 
@@ -41,10 +41,10 @@
 <h2 class="post_title sm_margin"><a>固态U盘安装Windows To Go详解</a></h2>
 <br>
 <script>function lan(){if(document.getElementById("lan").innerText=="繁"){var s=document.getElementById("tongwenlet_cn");if(s!=null){document.body.removeChild(s)}var s=document.createElement("script");s.language="javascript";s.type="text/javascript";s.src="https://cdn.jsdelivr.net/gh/qyxtim/Static@1.1/bookmarklet_tw.js";s.id="tongwenlet_cn";document.body.appendChild(s);document.getElementById("lan").innerHTML="简"}else{if(document.getElementById("lan").innerText=="簡"){var s=document.getElementById("tongwenlet_cn");if(s!=null){document.body.removeChild(s)}var s=document.createElement("script");s.language="javascript";s.type="text/javascript";s.src="https://cdn.jsdelivr.net/gh/qyxtim/Static@1.1/bookmarklet_cn.js";s.id="tongwenlet_cn";document.body.appendChild(s);document.getElementById("lan").innerHTML="繁"}}};</script>
-<section class="post_details"><i class="iconfont icon-calendar"></i><span style="margin-right:15px"> 2020-06-07</span></span> </span>分类：<span class="weaklink" style="margin-right:15px">	<a href="http://blog.hrxz.net/tag/computer/" class="tag">电脑</a></span>字数：<span style="margin-right:15px">3566字</span><i class="iconfont icon-naozhong"></i><span style="margin-right:15px">13 min read</span><a id="lan" href="javascript:void(0);"onclick="lan();"title="调整简繁体" style="margin-right:15px;">繁</a>
+<section class="post_details"><i class="iconfont icon-calendar"></i><span style="margin-right:15px"> 2020-06-07</span></span> </span>分类：<span class="weaklink" style="margin-right:15px">	<a href="http://hr88.top/tag/computer/" class="tag">电脑</a></span>字数：<span style="margin-right:15px">3566字</span><i class="iconfont icon-naozhong"></i><span style="margin-right:15px">13 min read</span><a id="lan" href="javascript:void(0);"onclick="lan();"title="调整简繁体" style="margin-right:15px;">繁</a>
 </section>
 
-<img class="featureImg" alt="featureimg" src="http://blog.hrxz.net/post-images/1591531030133.jpg" referrerpolicy="no-referrer">
+<img class="featureImg" alt="featureimg" src="http://hr88.top/post-images/1591531030133.jpg" referrerpolicy="no-referrer">
 
 <div style="display:flex">
 <div class="md_block" id="md_block">
@@ -52,10 +52,10 @@
 <p>一时心血来潮，淘宝买了一个固态U盘。用来弄个Windows To Go。固态U盘容量是64GB(2020年6月淘宝价218元人民币),商家宣称是SLC闪存颗，读:460M/S,写:380M/S。由于我用的是Surfac Go最低配置(4G+64G)的平板，只有TPYE-C接口，所以用的商家送的TPYE-C转USB接口插到平板。</p>
 <!-- more -->
 <p>实测速度如下图：<br>
-<img src="http://blog.hrxz.net/post-images/1591530810189.png" alt="" loading="lazy"><br>
+<img src="http://hr88.top/post-images/1591530810189.png" alt="" loading="lazy"><br>
 因为是固态U盘，所以体积比普通的U盘大多了，因为我看到很多买家评价说使用起来温度达到50度左右，所以就买了一个金属外壳的，重量也达到了31克，我普通的U盘比体积和重量都会大很多。<br>
 如下图（绿色的是我原有的垃圾tlc颗粒的128G金士顿U盘，重量8克，银色的是新买的固态U盘）：<br>
-<img src="http://blog.hrxz.net/post-images/1591531030133.jpg" alt="" loading="lazy"><br>
+<img src="http://hr88.top/post-images/1591531030133.jpg" alt="" loading="lazy"><br>
 安装Windows To Go很简单，需要准备好windows系统安装镜像，KMS激活工具等<br>
 Windows 10 version 2004 官方正式版ISO镜像于2020年5月份发布，简称20H1，系统版本为2004，OS内部版为19041。<br>
 <strong>MVS (MSDN) Windows 10 v2004 2020年五月版官方简体中文正式版ISO镜像</strong></p>
@@ -83,7 +83,7 @@ SHA-1: CE9C288E1BEB6F0F260753FFD0989A4B6FF79E63<br>
 高速磁力链接 <a href="magnet:?xt=urn:btih:e1f558cbc44e4e0e7a9e28adc01b98794ea61e9c&amp;dn=cn_windows_10_business_editions_version_2004_updated_may_2020_x86_dvd_8c34ab67.iso">magnet:?xt=urn:btih:e1f558cbc44e4e0e7a9e28adc01b98794ea61e9c&amp;dn=cn_windows_10_business_editions_version_2004_updated_may_2020_x86_dvd_8c34ab67.iso</a></p>
 <p><strong>HEU KMS Activator 19.6.1，KMS激活利器</strong><br>
 <a href="https://www.lanzoux.com/icgqimj">下载地址</a><br>
-<img src="http://blog.hrxz.net/post-images/1591503133026.jpg" alt="" loading="lazy"></p>
+<img src="http://hr88.top/post-images/1591503133026.jpg" alt="" loading="lazy"></p>
 <p>Windows To Go以下为了方便简称为WTG<br>
 <strong>WTG 简介</strong><br>
 这项功能最早推出于 2011 年 9 月，并包含在之后发布的 Windows 8 企业版、Windows 8.1 企业版、 Windows 10 企业版，教育版和 1607 版本及之后的 Windows 10 专业版中。通过此功能，你可以将 Windows 「浓缩」到一个 USB 存储设备上并随身携带，并且由于是储存在外置设备中，所以不用担心本机的容量问题。这对那些对 Windows 有短暂需求而又不想装 Boot Camp 和虚拟机的 Mac 用户来说可谓非常友好了。</p>
@@ -102,9 +102,9 @@ SHA-1: CE9C288E1BEB6F0F260753FFD0989A4B6FF79E63<br>
 <p><strong>建议按我上面提供的下载原版镜像。</strong></p>
 <p>第一步：插上外置存储，并装载你所下载的 Windows 10 企业版镜像，通常情况下只需双击该镜像文件即可装载。</p>
 <p>第二步：在任务栏中的搜索栏（位于开始按钮右边）处输入「Windows To Go」并打开，你也可以在控制面板中找到「Windows To Go」。</p>
-<p><img src="http://blog.hrxz.net/post-images/1591503579254.jpg" alt="" loading="lazy"><br>
+<p><img src="http://hr88.top/post-images/1591503579254.jpg" alt="" loading="lazy"><br>
 第三步：打开 「Windows To Go」 之后会出现如下画面，选择你所需要的外置存储并按下一步。<br>
-<img src="http://blog.hrxz.net/post-images/1591503638046.jpg" alt="" loading="lazy"><br>
+<img src="http://hr88.top/post-images/1591503638046.jpg" alt="" loading="lazy"><br>
 这里有一个地方需要注意，如果你碰到如图所示的提示的话，可以不用理会它，直接点击下一步即可。如果在选择好外置存储后发现下一步按钮为灰色的话那说明你的外置存储没有达到官方的标准，需要更换一个以继续。</p>
 <p>第四步：在单击下一步之后会来到选择 Windows 映像的界面，在这里选择企业版，选择其他版本的话会导致无法继续。如果你已经装载好镜像但是没有看到选项的话，那么点击下方的「添加搜索位置」，接着选择装载好镜像的盘符即可。</p>
 <p>第五步：接下来就来到了设置 BitLocker 密码的界面，这个的话就根据个人喜好来决定设置或者是不设置了。</p>
@@ -119,7 +119,7 @@ SHA-1: CE9C288E1BEB6F0F260753FFD0989A4B6FF79E63<br>
 <p>在网上有许多制作 WTG 的第三方工具，在这里我们选取比较知名的 WTG 辅助工具 以向大家展示第三方工具的使用方法。</p>
 <p>第一步：同样的，连接外置设备，装载你的 Windows 10 镜像。在这里你可以装载任意版本的 Windows 镜像。</p>
 <p>第二步：打开 WTG 辅助工具，来到以下界面。<br>
-<img src="http://blog.hrxz.net/post-images/1591504152695.jpg" alt="" loading="lazy"></p>
+<img src="http://hr88.top/post-images/1591504152695.jpg" alt="" loading="lazy"></p>
 <p>第三步：选择你的外置设备和 Windows 镜像，如果你想知道你的外置设备的性能如何，你可以点击「性能测试」按钮。右边的高级选项的话你可以根据需要自行调整，一般情况下保持默认即可。</p>
 <p>第四步：点击「创建」，会出现一个警告窗口，确认后点击「是」，接下来就等待安装完成吧。</p>
 <p>相对于官方工具来说，第三方工具的限制要求没有那么高，并且还有很多高级选项供用户自定义，极大地方便了我们使用。</p>
@@ -163,7 +163,7 @@ WTG 这个功能着实方便了那些对 Windows 有临时需求的小容量 Mac
 <div id="fullPage"><canvas id="canvas"></canvas></div>
 </article>
 <hr>
-<section><div style="color:#ccc;font-size:12px;width:100%;">上一篇&nbsp;<a href="http://blog.hrxz.net/post/16/"><b>铜排的载流量计算</b></a></div><div style="color:#ccc;font-size:12px;width:100%;">下一篇&nbsp;<a href="http://blog.hrxz.net/post/14/"><b>断路器的分类及用途</b></a></div></section>
+<section><div style="color:#ccc;font-size:12px;width:100%;">上一篇&nbsp;<a href="http://hr88.top/post/16/"><b>铜排的载流量计算</b></a></div><div style="color:#ccc;font-size:12px;width:100%;">下一篇&nbsp;<a href="http://hr88.top/post/14/"><b>断路器的分类及用途</b></a></div></section>
 <hr>
 <!--PC和WAP自适应版-->
 <div id="SOHUCS" ></div> 
