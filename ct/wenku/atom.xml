@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ct.hrxz.net/wenku</id>
+    <title>成套助手</title>
+    <updated>2021-01-15T14:38:59.129Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ct.hrxz.net/wenku"/>
+    <link rel="self" href="https://ct.hrxz.net/wenku/atom.xml"/>
+    <logo>https://ct.hrxz.net/wenku/images/avatar.png</logo>
+    <icon>https://ct.hrxz.net/wenku/favicon.ico</icon>
+    <rights>All rights reserved 2021, 成套助手</rights>
+    <entry>
+        <title type="html"><![CDATA[断路器的分类及用途]]></title>
+        <id>https://ct.hrxz.net/wenku/post/13/</id>
+        <link href="https://ct.hrxz.net/wenku/post/13/">
+        </link>
+        <updated>2021-01-15T13:50:35.000Z</updated>
+        <summary type="html"><![CDATA[<p>断路器俗称空气开关MCB（塑料外壳）开关的一种。由手柄、动触头、静触头、弹簧、双金属片、连杆、脱扣装置、铁芯、线圈、导弧片、灭弧片、导电部件和接线孔等部件组成。主要用于低压供电、配电系统线路及电气设备过载及短路保护。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>断路器俗称空气开关MCB（塑料外壳）开关的一种。由手柄、动触头、静触头、弹簧、双金属片、连杆、脱扣装置、铁芯、线圈、导弧片、灭弧片、导电部件和接线孔等部件组成。主要用于低压供电、配电系统线路及电气设备过载及短路保护。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高压柜中的铜排选择]]></title>
+        <id>https://ct.hrxz.net/wenku/post/18/</id>
+        <link href="https://ct.hrxz.net/wenku/post/18/">
+        </link>
+        <updated>2020-08-16T07:30:15.000Z</updated>
+        <summary type="html"><![CDATA[<p>高压柜的铜排截面选择需要符合两个要求：</p>
+<p>（1）满足额定电流<br>
+（2）满足短时耐受电流</p>
+<p>第一条可通过负载容量计算得知，那么第二条就需要记下 GB3906[附录D]中公式：S=I/a√(t/△θ) 式中：I--额定短时耐受电流；a—材质系数，铜为13，铝为8.5；t--额定短路持续时间；△θ—温升（K），对于裸导体一般取180K，对于4S持续时间取215K。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>高压柜的铜排截面选择需要符合两个要求：</p>
+<p>（1）满足额定电流<br>
+（2）满足短时耐受电流</p>
+<p>第一条可通过负载容量计算得知，那么第二条就需要记下 GB3906[附录D]中公式：S=I/a√(t/△θ) 式中：I--额定短时耐受电流；a—材质系数，铜为13，铝为8.5；t--额定短路持续时间；△θ—温升（K），对于裸导体一般取180K，对于4S持续时间取215K。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[铜排折弯的计算方法]]></title>
+        <id>https://ct.hrxz.net/wenku/post/17/</id>
+        <link href="https://ct.hrxz.net/wenku/post/17/">
+        </link>
+        <updated>2020-08-16T06:59:47.000Z</updated>
+        <summary type="html"><![CDATA[<p>想必新手成套安装人员看一些铜排师傅做铜排很是羡慕，其实说白了也很简单，主要是心细，计算的时候不要漏加厚度与搭接面的高度。其它具体的请看下面的介绍！如果需要的话请下载一个我写的小软件（支持安卓与苹果手机）输入直角三角形的两个直角边，自动算直角三角形的斜边与三个角度提升您的效率。软件界面如上图！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>想必新手成套安装人员看一些铜排师傅做铜排很是羡慕，其实说白了也很简单，主要是心细，计算的时候不要漏加厚度与搭接面的高度。其它具体的请看下面的介绍！如果需要的话请下载一个我写的小软件（支持安卓与苹果手机）输入直角三角形的两个直角边，自动算直角三角形的斜边与三个角度提升您的效率。软件界面如上图！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[铜排的载流量计算]]></title>
+        <id>https://ct.hrxz.net/wenku/post/16/</id>
+        <link href="https://ct.hrxz.net/wenku/post/16/">
+        </link>
+        <updated>2020-08-16T05:49:52.000Z</updated>
+        <summary type="html"><![CDATA[<p>铜排又称铜母排或铜汇流排，是由铜材质制作的，截面为矩形或倒角（圆角）矩形的长导体(现在一般都用圆角铜排，以免产生尖端放电），在电路中起输送电流和连接电气设备的作用。</p>
+<p>铜排在电气设备，特别是道成套配电装置中得到了广泛的应用；一般在配电柜中的U、V、W相母排和PE母排均采用铜排；铜排在使用中一般标有相色字母标志或回涂有相色漆，U相铜排涂有“黄”色，V相铜排涂有“绿”色，W相铜排涂有“红”色，PE母线铜排涂有“黄绿相间”双色答。今天我们来学习一下铜排的相关计算！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>铜排又称铜母排或铜汇流排，是由铜材质制作的，截面为矩形或倒角（圆角）矩形的长导体(现在一般都用圆角铜排，以免产生尖端放电），在电路中起输送电流和连接电气设备的作用。</p>
+<p>铜排在电气设备，特别是道成套配电装置中得到了广泛的应用；一般在配电柜中的U、V、W相母排和PE母排均采用铜排；铜排在使用中一般标有相色字母标志或回涂有相色漆，U相铜排涂有“黄”色，V相铜排涂有“绿”色，W相铜排涂有“红”色，PE母线铜排涂有“黄绿相间”双色答。今天我们来学习一下铜排的相关计算！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[漏电断路器选型与原理]]></title>
+        <id>https://ct.hrxz.net/wenku/post/12/</id>
+        <link href="https://ct.hrxz.net/wenku/post/12/">
+        </link>
+        <updated>2020-06-01T11:48:12.000Z</updated>
+        <summary type="html"><![CDATA[<p>断路器有1P，2P，2P，4P。请问极数是指什么，在选择断路器的时候怎么判断选几极的断路器？<br>
+极数就是指切断线路的导线根数。	1P就是切断一根导线；2P就是同时切断2根导线，以次类推。<br>
+极数指断线数。1P、2P用于单相，3P、4P用于三相。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>断路器有1P，2P，2P，4P。请问极数是指什么，在选择断路器的时候怎么判断选几极的断路器？<br>
+极数就是指切断线路的导线根数。	1P就是切断一根导线；2P就是同时切断2根导线，以次类推。<br>
+极数指断线数。1P、2P用于单相，3P、4P用于三相。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电气二次回路线号的标记方案和原则]]></title>
+        <id>https://ct.hrxz.net/wenku/post/11/</id>
+        <link href="https://ct.hrxz.net/wenku/post/11/">
+        </link>
+        <updated>2020-05-10T13:01:10.000Z</updated>
+        <summary type="html"><![CDATA[<p>在发电厂、变电所中，直接生产、输送和分配电能的设备称为一次设备。而对一次设备进行控制、监视、保护测量及远动的设备称为二次设备。将二次设备按规则连接成的电路称为二次回路。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>在发电厂、变电所中，直接生产、输送和分配电能的设备称为一次设备。而对一次设备进行控制、监视、保护测量及远动的设备称为二次设备。将二次设备按规则连接成的电路称为二次回路。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[空气开关常问问题]]></title>
+        <id>https://ct.hrxz.net/wenku/post/kaiguan/</id>
+        <link href="https://ct.hrxz.net/wenku/post/kaiguan/">
+        </link>
+        <updated>2020-04-30T14:51:10.000Z</updated>
+        <summary type="html"><![CDATA[<p>1、小型断路器有何用途？<br>
+用于照明、动力配电系统作过载和短路保护，以及线路的不频繁转换之用。</p>
+<p>2、B 、C、D类脱扣特性有何区别？如何应用？<br>
+B 类的瞬时脱扣电流是	3-5In ，适用于电阻性负载；C类的瞬时脱扣电流是5-10In ，适用于一般负载；D 类的瞬时脱扣电流是	10-20In ，适用于大电感性负载。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>1、小型断路器有何用途？<br>
+用于照明、动力配电系统作过载和短路保护，以及线路的不频繁转换之用。</p>
+<p>2、B 、C、D类脱扣特性有何区别？如何应用？<br>
+B 类的瞬时脱扣电流是	3-5In ，适用于电阻性负载；C类的瞬时脱扣电流是5-10In ，适用于一般负载；D 类的瞬时脱扣电流是	10-20In ，适用于大电感性负载。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电流互感器接地原因详解]]></title>
+        <id>https://ct.hrxz.net/wenku/post/hgq/</id>
+        <link href="https://ct.hrxz.net/wenku/post/hgq/">
+        </link>
+        <updated>2020-04-28T14:42:40.000Z</updated>
+        <summary type="html"><![CDATA[<p>电流互感器是一种专门用于交流电流变换的特种变压器。特点是正常运行时一次绕组串联在线路上。因此励磁磁动势很小，绕组感应电压很小，随之二次侧电压也很低。<br>
+电流互感器最害怕的是二次侧开路	,在二次侧开路时, 由于二次磁动势不存在,一次绕组流过的电流全部用来励磁,二次感应电势将急剧上升,很快就会烧毁互感器。由于电流互感器的电磁隔离,一次侧系统和二次侧系统在电气上是没有联系的,因此仅从互感器回路来说的话,二次侧不管是接地也好，不接地也好,都能可靠地运行。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>电流互感器是一种专门用于交流电流变换的特种变压器。特点是正常运行时一次绕组串联在线路上。因此励磁磁动势很小，绕组感应电压很小，随之二次侧电压也很低。<br>
+电流互感器最害怕的是二次侧开路	,在二次侧开路时, 由于二次磁动势不存在,一次绕组流过的电流全部用来励磁,二次感应电势将急剧上升,很快就会烧毁互感器。由于电流互感器的电磁隔离,一次侧系统和二次侧系统在电气上是没有联系的,因此仅从互感器回路来说的话,二次侧不管是接地也好，不接地也好,都能可靠地运行。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KYN28高压开关柜基本操作程序]]></title>
+        <id>https://ct.hrxz.net/wenku/post/kyn28/</id>
+        <link href="https://ct.hrxz.net/wenku/post/kyn28/">
+        </link>
+        <updated>2020-02-28T07:23:25.000Z</updated>
+        <summary type="html"><![CDATA[<p>KYN28高压开关柜，配用高开断能力和低截流值真空断路器作为主开关，结构先进、合理、紧凑，性能优越，安全可靠，同时具有“五防”联锁功能，满足IEC298、GB3906等技术标准要求。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>KYN28高压开关柜，配用高开断能力和低截流值真空断路器作为主开关，结构先进、合理、紧凑，性能优越，安全可靠，同时具有“五防”联锁功能，满足IEC298、GB3906等技术标准要求。</p>
+]]></content>
+    </entry>
+</feed>

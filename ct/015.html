@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<link rel="stylesheet" href="style.css">
+		<style>
+			img {
+				width: auto;
+				height: auto;
+				max-width: 100%;
+				max-height: 100%;
+		</style>
+		<title>高压柜中的铜排选择</title>
+		<meta name="keywords" content="高压柜中的铜排选择" />
+	</head>
+	<body>
+		<div class="browse">现在位置： <a title="返回首页" href="index.html">首页</a> &gt;
+			<a href="015.html">高压柜中的铜排选择</a>
+		</div>
+		<p style="font-size:18px;color: #FF0000;"">高压柜中的铜排选择<p><br>
+	<p style=" font-size:16px;color: #0000ff;"">高压柜的铜排截面选择需要符合两个要求：<p><br>
+				（1）满足额定电流<br>
+
+				（2）满足短时耐受电流 <br><br>
+				第一条可通过负载容量计算得知，那么第二条就需要记下 GB3906[附录D]中公式：S=I/a√(t/△θ)
+				式中：I--额定短时耐受电流；a—材质系数，铜为13，铝为8.5；t--额定短路持续时间；△θ—温升（K），对于裸导体一般取180K，对于4S持续时间取215K。<br><br>
+
+				<p style="font-size:16px;color: #FF0000;"">则：<p>
+		
+		25KA/4S系统铜母线最小截面积S=（25/13）*√4/215=260 mm2；<br>
+		
+		31.5KA/4S系统铜母线最小截面积S=（31.5/13）*√4/215=330 mm2；<br>
+		
+		40KA/4S系统铜母线最小截面积S=（40/13）*√4/215=420 mm2；<br>
+		
+		63KA/4S系统铜母线最小截面积S=（63/13）*√4/215=660 mm2；<br>
+		
+		80KA/4S系统铜母线最小截面积S=（80/13）*√4/215=840 mm2；<br>
+		
+		以上两个条件核算出来的铜排截面需以最大值选取。<br><br>
+		
+		<p style="
+				 font-size:16px;color: #0000ff;"">例如，某个回路中设计院给出的电流参数为：<p>额定电流630A、短时耐受电流为31.5KA，那么核算额定电流630A应采用TMY-40*6、核算短时耐受电流为31.5KA应采用TMY-60*6（通过上表查的31.5KA/4S铜母线最小截面积为330
+						mm2 ），TMY-60*6截面为360 mm2 大于上述表中最小截面积330 mm2。<br><br>
+
+						<p style="font-size:16px;color: #0000ff;"">按照两个条件中的最大值选择得出：<p>额定电流630A、短时耐受电流为31.5KA的母线应选择TMY-60*6。<br>
+		<br><br>
+	</body>
+</html>

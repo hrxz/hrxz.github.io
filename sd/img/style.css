@@ -1,0 +1,99 @@
+/*
+
+Theme Name: Runoob Mobile Theme
+Theme URI: http://www.runoob.com
+Description: 页面宽度自适应屏幕，适合在移动浏览器显示的WordPress
+*/
+/** 全局设置 **/
+
+table{border-collapse:collapse;border-spacing:0;}
+i, em{font-style:normal;}
+ol, ul{list-style:none;}
+h1, h2, ul, button, input, iframe,ol,p {
+	margin: 0;
+	padding: 0;
+	}
+h1 {
+	font-size: 20px;
+}
+h2 {
+	font-size: 18px;
+}
+h3 {
+	font-size: 16px;
+}
+body {
+
+	background: #C4E29D;
+	font: 16px Verdana, sans-serif;
+	color: #000;
+	line-height: 24px;
+	/* margin: 0;
+	margin：0 auto; */
+	margin:15px 15px 0px 15px;
+}
+
+
+a:link {color: #ffffff; text-decoration:none;}
+a:active:{color: white; } 
+a:visited {color:purple;text-decoration:none;} 
+a:hover {color: white; text-decoration:underline;} 
+span.new {
+  float: right;
+  color: #FFFFFF;
+  background-color: #8AC007;
+  font-weight: bold;
+  padding-left: 1px;
+  padding-right: 1px;
+  border: 1px solid #ffffff;
+  outline: 1px solid #8AC007;
+}
+.clear {
+	clear: both;
+}
+ul {
+	list-style: none;
+}
+:focus {
+	outline:0;
+}
+
+/* -- 按钮 -- */
+    
+	.button {
+	background: #4caf50;
+	color: #fff;
+	border-radius: 5px 5px;
+	font-size: 13px;
+	padding: 7px 22px;
+	margin: 3px;
+	border: none;
+	box-shadow: 0 6px 6px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button1{
+	background: #ff0000;
+	color: #fff;
+	border-radius: 20px 5px;
+	font-size: 13px;
+	padding: 7px 22px;
+	margin: 3px;
+	border: none;
+	box-shadow: 0 6px 6px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+
+#main{
+	/* 我的备注 */
+	background: #c4e29d;
+	margin: 0 10px 10px 10px;
+	border: 1px solid #aeb2b9;
+	border-radius: 6px;
+}
+
+
+
+
+
+
+
